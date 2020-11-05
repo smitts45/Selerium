@@ -1,0 +1,31 @@
+Initializing properties file....
+launching browser :-chrome
+launching url:-null
+Giving values:-(incorrect id)using locator email
+Giving values:-(incorrect password) using locator//input[@id='pass']
+clicked the button using locatoru_0_b
+Initializing properties file....
+launching browser :-chrome
+launching url:-null
+Giving values(incorrect id)using locator:  email
+Giving values(incorrect password) using locator: //input[@id='pass']
+clicked the button using locator: u_0_b
+
+Initializing properties file....
+launching browser : chrome
+launching url: https://www.facebook.com
+Giving values(incorrect id)using locator:  email
+Giving values(incorrect password) using locator: //input[@id='pass']
+clicked the button using locator: u_0_b
+Initializing properties file....
+launching browser : chrome
+launching url: https://www.facebook.com
+Giving values(incorrect id)using locator:  email
+Giving values(incorrect password) using locator: //input[@id='pass']
+clicked the button using locator: u_0_b
+Initializing properties file....
+launching browser : chrome
+launching url: https://www.facebook.com
+Giving values(incorrect id)using locator:  email
+Giving values(incorrect password) using locator: //input[@id='pass']
+clicked the button using locator: u_0_b
