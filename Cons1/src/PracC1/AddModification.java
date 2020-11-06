@@ -6,7 +6,6 @@ public class AddModification {
 	{
 		System.out.println("Changes done for github");
 		System.out.println("Second Change");
-		System.out.println("Third change");
 	}
 
 }
